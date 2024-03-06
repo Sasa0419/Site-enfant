@@ -1,0 +1,38 @@
+body {
+
+  background-image: url(image/SANATURE.png);
+  background: size cover 100%;
+  h
+
+}
+
+main {
+
+  background-color:#d6955b;
+  
+  margin: 10vw;
+  height: 35vw;
+  font-size:larger;
+  
+  
+}
+
+h1 { 
+
+  text-align:center;
+  text-transform: uppercase;
+  font-weight:5%;
+  
+
+ 
+}
+
+p {
+  text-align: center;
+  text-transform: lowercase;
+  margin-left: 4vw;
+  margin-right: 4vw;
+  margin-top: 3vw;
+
+
+}
